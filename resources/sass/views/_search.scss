@@ -1,0 +1,26 @@
+.search{
+    #sponsored .card{
+        border: 2px solid;
+        border-color: $secondary;
+    }
+
+    .card:hover{
+        cursor: pointer;
+        transform: scale(1.02);
+    }
+
+    .ap-icon-pin{
+        display: none;
+      }
+
+    .image-faker{
+        width: 100%;
+        height: 100%;
+
+        background-repeat: no-repeat;
+
+        background-size: cover;
+
+        background-position: center center;
+    }
+}

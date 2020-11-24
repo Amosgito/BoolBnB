@@ -1,0 +1,13 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/partials/autocomplete.js": "/js/partials/autocomplete.js",
+    "/js/partials/chart.js": "/js/partials/chart.js",
+    "/js/partials/create.js": "/js/partials/create.js",
+    "/js/partials/header.js": "/js/partials/header.js",
+    "/js/partials/map.js": "/js/partials/map.js",
+    "/js/partials/messages.js": "/js/partials/messages.js",
+    "/js/partials/profile.js": "/js/partials/profile.js",
+    "/js/partials/search.js": "/js/partials/search.js",
+    "/js/partials/sponsorship.js": "/js/partials/sponsorship.js"
+}

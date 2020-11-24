@@ -1,0 +1,53 @@
+.profile{
+
+
+    .media .image-faker{
+        cursor: pointer;
+    }
+    .image-faker {
+        height: 100px;
+        width: 100px;
+
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .media-body .txt{
+        max-height: calc(100px - 25px - 0.5rem);
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .media-body h3{
+        max-height: 60px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    a{
+        color: #212529;
+        text-decoration: none;
+
+        &:hover{
+            color: #212529;
+            text-decoration: none;
+        }
+    }
+
+    a.btn{
+        color: white;
+
+        &:hover{
+            color:white;
+            text-decoration: none;
+        }
+    }
+
+    .custom-control-label::before,
+    .custom-control-label::after,
+    .custom-control-input{
+        cursor: pointer;
+    }
+
+} 

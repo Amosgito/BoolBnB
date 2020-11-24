@@ -1,0 +1,45 @@
+#create-cont {
+
+  display: flex;
+  margin: auto;
+  padding: 50px 0 50px 0;
+  width: 100%;
+  height: 100%;
+
+    div.form {
+
+      background: rgba(255,255,255, 0.8);
+
+    }
+
+    h1 {
+
+      font-weight: bold;
+      text-align: center;
+      margin-bottom: 25px;
+
+    }
+
+
+    div.row {
+
+      div.col-md-6 {
+
+        div.form-des {
+          width: 100%;
+          height: 150px;
+
+        }
+
+      }
+
+    }
+}
+
+@include media-breakpoint-up(lg) {
+  #create-cont {
+
+      width: 80%;
+  }
+
+}
